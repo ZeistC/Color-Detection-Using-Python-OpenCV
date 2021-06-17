@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 import pandas as pd
 
-img_path = "C:/Users/Aman/Downloads/Compressed/python-project-color-detection/SageGreen.jpg"
+img_path = " Your image path "
 img = cv2.imread(img_path)
 img=cv2.resize(img,(700,500))
 
